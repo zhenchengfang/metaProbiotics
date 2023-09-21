@@ -12,7 +12,7 @@ metaProbiotics is designed to identify the probiotics bins from metagenomic data
 
 ## Manuals
 ------------
-Please refer to metaProbiotics.pdf for the detailed metaProbiotics usage.
+Please refer to [metaProbiotics_manual.pdf] () for the detailed metaProbiotics usage.
 
 ## Overview: three approaches of using metaProbiotics
 
