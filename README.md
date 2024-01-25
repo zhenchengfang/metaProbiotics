@@ -51,7 +51,7 @@ Users who have installed the MATLAB software and are familiar with MATLAB, we re
   
 ## Output
 
-The output of metaProbiotics consists of four columns:
+The output of metaProbiotics consists of three columns:
 
 Input_file | Score | Is_probiotics |
 ---------- | ----- | ------------- |
@@ -61,7 +61,7 @@ The bin with a higher score is more likely to be probiotic. By default, the bin 
 
 
 # Citation
-+ metaProbiotics facilitates systematic probiotic mining from metagenomic binning data based on a language model
++ metaProbiotics: a tool for mining probiotic from metagenomic binning data based on a language model
 
 
 # Contact
