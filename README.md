@@ -5,7 +5,8 @@ Mining the probiotics from metagenomic bins primary sequences using the language
 
 metaProbiotics is designed to identify the probiotics bins from metagenomic data. The tool takes one or more fasta files as input, where each fasta file contains sequences from the same bin, and identifies bins originating from probiotic bacteria. metaProbiotics can be run on the virtual machine, via the docker, or via Matlab interface. For non-computer professionals, we recommend running the virtual machine version of metaProbiotics on local PC. In this way, users do not need to install any dependency package.
 
-![network](https://github.com/zhenchengfang/metaProbiotics/assets/48039512/093960ca-853c-45d7-a171-4cb5a2a46416)
+![image](https://github.com/zhenchengfang/metaProbiotics/assets/48039512/deb1361c-4351-423b-9bc7-e2725ae9275c)
+
 
 ## Version
 + metaProbiotics 1.0 (Tested on Ubuntu 16.04)
