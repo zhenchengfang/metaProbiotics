@@ -1,6 +1,12 @@
 # metaProbiotics
 Mining the probiotics from metagenomic bins primary sequences using the language model
 
+## Contact
+Any question, please do not hesitate to contact me: fangzc@smu.edu.cn
+
+## Change logs
+2024.04.15 The manual was updated with a few modification
+
 ## Introduction
 
 metaProbiotics is designed to identify the probiotics bins from metagenomic data. The tool takes one or more fasta files as input, where each fasta file contains sequences from the same bin, and identifies bins originating from probiotic bacteria. metaProbiotics can be run on the virtual machine, via the docker, or via Matlab interface. For non-computer professionals, we recommend running the virtual machine version of metaProbiotics on local PC. In this way, users do not need to install any dependency package.
@@ -62,8 +68,7 @@ The bin with a higher score is more likely to be probiotic. By default, the bin 
 
 
 # Citation
-+ metaProbiotics: a tool for mining probiotic from metagenomic binning data based on a language model
++ Wu S, Feng T, Tang W, Qi C, Gao J, He X, Wang J, Zhou H, Fang Z. metaProbiotics: a tool for mining probiotic from metagenomic binning data based on a language model. Brief Bioinform. 2024 Jan 22;25(2):bbae085. doi: 10.1093/bib/bbae085. PMID: 38487846; PMCID: PMC10940841.
 
 
-# Contact
-Any question, please do not hesitate to contact me: fangzc@smu.edu.cn
+
