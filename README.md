@@ -5,6 +5,7 @@ Mining the probiotics from metagenomic bins primary sequences using the language
 Any question, please do not hesitate to contact me: fangzc@smu.edu.cn
 
 ## Change logs
+2024.07.19 The README.md was updated with a few modification
 2024.04.15 The manual was updated with a few modification
 
 ## Introduction
@@ -43,7 +44,7 @@ We also provide a docker version of metaProbiotics docker images have build comp
 
 ### 3 Using MATLAB interface (Linux system is required)
 
-Users who have installed the MATLAB software and are familiar with MATLAB, we recommand you to run metaProbiotics througth the MATLAB script. Whether on linux or on other ooperating systems, such as windows, user could start a MATLAB GUI and directly select the file or folder needed to be predicted.
+Users who have installed the MATLAB software and are familiar with MATLAB, we recommand you to run metaProbiotics througth the MATLAB script. User could start a MATLAB GUI and directly select the file or folder needed to be predicted.
 
 
 ![Matlab](https://github.com/zhenchengfang/metaProbiotics/assets/48039512/ee76b5b6-3552-43ce-97f9-64a6cc45a04e)
