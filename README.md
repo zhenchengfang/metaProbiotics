@@ -5,8 +5,9 @@ Mining the probiotics from metagenomic bins primary sequences using the language
 Any question, please do not hesitate to contact me: fangzc@smu.edu.cn
 
 ## Change logs
-2024.07.19 The README.md was updated with a few modification
-2024.04.15 The manual was updated with a few modification
+2025.03.02 The link of the virtual machine has been updated;
+2024.07.19 The README.md was updated with a few modification;
+2024.04.15 The manual was updated with a few modification;
 
 ## Introduction
 
@@ -20,7 +21,7 @@ metaProbiotics is designed to identify the probiotics bins from metagenomic data
 
 ## Manuals
 ------------
-Please refer to [metaProbiotics_manual.pdf](https://github.com/zhenchengfang/metaProbiotics/blob/main/metaProbiotics_manual.pdf) for the detailed metaProbiotics usage.
+Please refer to [manual](https://github.com/zhenchengfang/metaProbiotics/blob/main/metaProbiotics_manual-20250221-revised.pdf) for the detailed metaProbiotics usage.
 
 ## Overview: three approaches of using metaProbiotics
 
